@@ -1,3 +1,3 @@
 CHAT APP BÁSICO EXEMPLO
 
-![alt text](https://imgur.com/q1PQwkg)
+![capturar](https://user-images.githubusercontent.com/13503031/53313246-42983800-3897-11e9-9cb8-6671cb49f848.PNG)
